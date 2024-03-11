@@ -66,7 +66,7 @@ SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
 
 - Attrition By Department
 
-- Attrition By Age and Gender
+- Attrition By Age and the Gender with the highest attrition
 
 - Attrition Count By Education and Business Travel
 
