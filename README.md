@@ -29,6 +29,7 @@ Else
    0
 ```
 
+![DASH](https://github.com/Ellamina19/Data-Analysis-for-Skilharvest/blob/main/HR%20REPORT.jpg)
   ## Result/Findings
   From our Analysis, we derived the following insight:
 
