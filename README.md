@@ -7,7 +7,7 @@ This is a documentation about my learning and progress with skilharvest. Let's d
 - [Tools Used](#tools-used)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Power Bi Query Used](#power-bi-query-used)
-- [Result/Findings](#result-findings)
+- [Result and Findings](#result-and-findings)
 
 ## Project Overview
 
@@ -49,7 +49,7 @@ SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
 ```
 
 ![DASH](https://github.com/Ellamina19/Data-Analysis-for-Skilharvest/blob/main/HR%20REPORT.jpg)
-  ## Result/Findings
+  ## Result and Findings
   From our Analysis, we derived the following insight:
 
 -  The HR Employee count
