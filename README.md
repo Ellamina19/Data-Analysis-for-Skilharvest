@@ -21,12 +21,18 @@ Exploratory Data Analysis is an approach in data analysis that involves summariz
 - Which department experience more attrition?
 - What education qualification experienes the most attrtion?
 - what is the Rate of attrition in the organization?
+- 
+## Power Bi Query Used
 
 To find the Sum of Attrition, I used a conditional formatting to create a measure for the Attrition. The code is below;
 ```
 If Attrition equals Yes then 1
 Else
    0
+```
+To find the Current Employee, I created a Measure using the DAX function. The code is below;
+```
+SUM('HR data'[Employee Count])-SUM('HR data'[Attrition Count])
 ```
 
 ![DASH](https://github.com/Ellamina19/Data-Analysis-for-Skilharvest/blob/main/HR%20REPORT.jpg)
