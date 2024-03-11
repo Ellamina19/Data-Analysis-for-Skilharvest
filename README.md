@@ -22,6 +22,14 @@ Exploratory Data Analysis is an approach in data analysis that involves summariz
 - What education qualification experienes the most attrtion?
 - what is the Rate of attrition in the organization?
 
+To find the Sum of Attrition, I used a conditional formatting to create a measure for the Attrition. The code is below;
+```
+If Attrition equals Yes then 1
+Else
+   0
+
+
+
   ## Result/Findings
   From our Analysis, we derived the following insight:
 
