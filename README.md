@@ -48,8 +48,9 @@ To find the Rate of Attrition, I created a Measure using the DAX function. The c
 SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
 ```
 
-![DASH](https://github.com/Ellamina19/Data-Analysis-for-Skilharvest/blob/main/HR%20REPORT.jpg)
+
   ## Result and Findings
+  ![DASH](https://github.com/Ellamina19/Data-Analysis-for-Skilharvest/blob/main/HR%20REPORT.jpg)
   From our Analysis, we derived the following insight:
 
 -  The HR Employee count
