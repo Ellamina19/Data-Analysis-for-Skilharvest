@@ -27,8 +27,7 @@ To find the Sum of Attrition, I used a conditional formatting to create a measur
 If Attrition equals Yes then 1
 Else
    0
-
-
+```
 
   ## Result/Findings
   From our Analysis, we derived the following insight:
@@ -51,4 +50,4 @@ Else
 
 - Attrition Count By Education and Business Travel
 
-- Average Age of Attrition
+- Average Age of Attrition 
