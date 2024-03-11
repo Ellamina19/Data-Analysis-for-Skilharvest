@@ -34,6 +34,10 @@ To find the Current Employee, I created a Measure using the DAX function. The co
 ```
 SUM('HR data'[Employee Count])-SUM('HR data'[Attrition Count])
 ```
+To find the Rate of Attrition, I created a Measure using the DAX function. The code is below;
+```
+SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
+```
 
 ![DASH](https://github.com/Ellamina19/Data-Analysis-for-Skilharvest/blob/main/HR%20REPORT.jpg)
   ## Result/Findings
