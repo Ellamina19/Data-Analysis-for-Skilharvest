@@ -1,5 +1,5 @@
 # Data-Analysis-for-Skilharvest
-This is a documentation about my learning and progress with skilharvest.
+This is a documentation about my learning and progress with skilharvest. Let's dive into the analysis together😙
 
 ## Documentation Outline
 - [Project Overview](#project-overview)
