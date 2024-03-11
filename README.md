@@ -1,5 +1,14 @@
 # Data-Analysis-for-Skilharvest
 This is a documentation about my learning and progress with skilharvest.
+
+## Project Outline
+- Project Overview
+- Data Sources
+- Tools Used
+- Exploratory Data Analysis
+- Power Bi Query Used
+- Result/Findings
+
 ## Project Overview
 
 This Data Analysis project emphasis to derive meaningful insight from the HR Data. By carefully analyzing the different parameters in this data to gather enough and adequate insight and observations to make a concise and reasonable decisions which then prompt us to tell a compelling and captivating stories around the data insights gotten and to know the performance from our data.
