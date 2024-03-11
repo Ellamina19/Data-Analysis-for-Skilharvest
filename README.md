@@ -8,9 +8,9 @@ This Data Analysis project emphasis to derive meaningful insight from the HR Dat
 The primary source of this Data that is used is HR Data that was given to us by our instructor .
 
 ## Tools Used
--Ms Excel for Fetching of data
+- Ms Excel for Fetching of data
 
--Microsoft Power Bi for cleaning of data and for reporting.
+- Microsoft Power Bi for cleaning of data and for reporting.
 
 ## Exploratory Data Analysis
 
@@ -25,22 +25,22 @@ Exploratory Data Analysis is an approach in data analysis that involves summariz
   ## Result/Findings
   From our Analysis, we derived the following insight:
 
--The HR Employee count
+-  The HR Employee count
 
 -The Sum of Attrition
 
--The Sum of current Employee
+- The Sum of current Employee
 
--Rate of Attrition
+- Rate of Attrition
 
--The Average age of Attrition
+- The Average age of Attrition
 
--Attrition count by Education
+- Attrition count by Education
 
--Attrition By Department
+- Attrition By Department
 
--Attrition By Age and Gender
+- Attrition By Age and Gender
 
--Attrition Count By Education and Business Travel
+- Attrition Count By Education and Business Travel
 
--Average Age of Attrition
+- Average Age of Attrition
