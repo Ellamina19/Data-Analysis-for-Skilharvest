@@ -71,4 +71,4 @@ SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
 
 - Attrition Count By Education and Business Travel
 
-- Average Age of Attrition 
+
