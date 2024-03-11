@@ -34,7 +34,7 @@ Else
 
 -  The HR Employee count
 
--The Sum of Attrition
+- The Sum of Attrition
 
 - The Sum of current Employee
 
