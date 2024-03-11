@@ -30,7 +30,7 @@ Exploratory Data Analysis is an approach in data analysis that involves summariz
 - Which department experience more attrition?
 - What education qualification experienes the most attrtion?
 - what is the Rate of attrition in the organization?
-- 
+  
 ## Power Bi Query Used
 
 To find the Sum of Attrition, I used a conditional formatting to create a measure for the Attrition. The code is below;
