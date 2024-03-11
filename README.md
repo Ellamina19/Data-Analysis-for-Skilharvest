@@ -1,13 +1,13 @@
 # Data-Analysis-for-Skilharvest
 This is a documentation about my learning and progress with skilharvest.
 
-## Project Outline
-- Project Overview
-- Data Sources
-- Tools Used
-- Exploratory Data Analysis
-- Power Bi Query Used
-- Result/Findings
+## Documentation Outline
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Power Bi Query Used](#power-bi-query-used)
+- [Result/Findings](#result-findings)
 
 ## Project Overview
 
