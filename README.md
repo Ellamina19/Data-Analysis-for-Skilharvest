@@ -7,7 +7,7 @@ This is a documentation about my learning and progress with skilharvest. Let's d
 - [Tools Used](#tools-used)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Power Bi Query Used](#power-bi-query-used)
-- [Result and Findings](#result-and-findings)
+- [Result and findings](#result-and-findings)
 
 ## Project Overview
 
