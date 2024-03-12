@@ -54,7 +54,7 @@ SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
 
 
   ## Result 1
-  ![DASH](https://github.com/Ellamina19/Data-Analysis-for-Skilharvest/blob/main/HR%20REPORT.jpg)
+  ![DASH](https://github.com/Ellamina19/Data-Analysis-for-Skilharvest-HR-DATA-/blob/main/HR%20REPORT%201.jpg)
   From our Analysis, we derived the following insight:
 
 -  The HR Employee count
