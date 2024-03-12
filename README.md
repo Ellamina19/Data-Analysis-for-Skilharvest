@@ -77,7 +77,7 @@ SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
 
   ## Findings
  - From our result, we can deduce the observations that in education sector, Bachelor's degree has the most highest number of attrition, But why😕, Myabe because they want to further their education to gain more degree or they got a bigger catch job than the one they currently have, who knows 😕.
- -  We also observed that the department with the highest number of attrition is R&D department. Maybe they have much of retired workers or people that have stayed in the comany for years and the company decided to relieve them or maybe most of them in the R&D got a bigger catch and decided to leave the company.
+ -  I also observed that the department with the highest number of attrition is R&D department. Maybe they have much of retired workers or people that have stayed in the comany for years and the company decided to relieve them or maybe most of them in the R&D got a bigger catch and decided to leave the company.
   
   
  ## Result 2
@@ -99,3 +99,7 @@ From our analysis, we derived the following results;
 - Sum of Monthly Rate
 
    ## Findings 2
+ - From our Report above, we derived the observations that the Job Role with the highest Attrition is Laboratory Techinicians, But why 😕, is it because that some of them were not devoted to their work that the company had to relieve them❓ Or they got a better offer 😕 and the Job Role with the least Attrition are the Research Director.
+ - I also observed that the job Role that have stayed longer than the others is the 'Manager Role' with the years of 18, that is much though😕
+ - I also observed that the Job Role that have stayed longer than the others since the last promotion 'Healthcare Representative with 16 years and the Job Role with the least years are the ' Sales Representative'
+ - Marital status that earns higher are the 'Married  ones' followed by the 'Single' and lastly the ' divorced'
