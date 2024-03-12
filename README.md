@@ -11,6 +11,7 @@ This is a documentation about my learning and progress with skilharvest. Let's d
 - [Findings](#findings)
 - [Findings](#findings)
 -  [Result 2](#result-2)
+-  [Findings 2](#findings-2)
 
 ## Project Overview
 
@@ -81,3 +82,20 @@ SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
   
  ## Result 2
  ![Dashboard](https://github.com/Ellamina19/Data-Analysis-for-Skilharvest-HR-DATA-/blob/main/HR%20REPORT%202.jpg)
+From our analysis, we derived the following results;
+
+-Job Role with Job level and Attrition
+
+-Marital Status and performance Rate with Sum of monthly income
+
+-Job Role with Years in current Role
+
+-Job Role with Years since last Promotion
+
+- Sum of Monthly income
+
+- Sum of Hourly Rate
+
+- Sum of Monthly Rate
+
+   ## Findings 2
