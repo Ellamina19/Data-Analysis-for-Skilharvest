@@ -74,7 +74,7 @@ SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
 
   ## Findings
  - From our result, we can deduce the observations that in education sector, Bachelor's degree has the most highest number of attrition, But why😕, Myabe because they want to further their education to gain more degree or they got a bigger catch job than the one they currently have, who knows 😕.
- -  We also observed that the department with the highest number of attrition is R&D department. Maybe they much of retired workers or people that have stayed in the comany for years and the computer decided to relieve them or maybe most of them in the R&D got a bigger catch and decided to leave the company.
+ -  We also observed that the department with the highest number of attrition is R&D department. Maybe they have much of retired workers or people that have stayed in the comany for years and the company decided to relieve them or maybe most of them in the R&D got a bigger catch and decided to leave the company.
   
   
 
