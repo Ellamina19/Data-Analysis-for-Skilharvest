@@ -8,6 +8,7 @@ This is a documentation about my learning and progress with skilharvest. Let's d
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Power Bi Query Used](#power-bi-query-used)
 - [Result 1](#result-1)
+- [Findings](#findings)
 
 ## Project Overview
 
@@ -71,4 +72,9 @@ SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
 
 - Attrition Count By Education and Business Travel
 
+  ## Findings
+ - From our result, we can deduce the observations that in education sector, Bachelor's degree has the most highest number of attrition, But why😕, Myabe because they want to further their education to gain more degree or they got a bigger catch job than the one they currently have, who knows 😕.
+ -  We also observed that the department with the highest number of attrition is R&D department. Maybe they much of retired workers or people that have stayed in the comany for years and the computer decided to relieve them or maybe most of them in the R&D got a bigger catch and decided to leave the company.
+  
+  
 
