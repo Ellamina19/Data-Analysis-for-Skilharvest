@@ -9,6 +9,8 @@ This is a documentation about my learning and progress with skilharvest. Let's d
 - [Power Bi Query Used](#power-bi-query-used)
 - [Result 1](#result-1)
 - [Findings](#findings)
+- [Findings](#findings)
+-  [Result 2](#result-2)
 
 ## Project Overview
 
