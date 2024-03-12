@@ -77,4 +77,5 @@ SUM('HR data'[Attrition Count])/SUM('HR data'[Employee Count])
  -  We also observed that the department with the highest number of attrition is R&D department. Maybe they have much of retired workers or people that have stayed in the comany for years and the company decided to relieve them or maybe most of them in the R&D got a bigger catch and decided to leave the company.
   
   
-
+ ## Result 2
+ ![Dashboard](https://github.com/Ellamina19/Data-Analysis-for-Skilharvest-HR-DATA-/blob/main/HR%20REPORT%202.jpg)
