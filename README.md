@@ -12,6 +12,7 @@ This is a documentation about my learning and progress with skilharvest. Let's d
 - [Findings](#findings)
 -  [Result 2](#result-2)
 -  [Findings 2](#findings-2)
+-  [Conclusion ](#conclusion)
 
 ## Project Overview
 
@@ -103,3 +104,6 @@ From our analysis, we derived the following results;
  - I also observed that the job Role that have stayed longer than the others is the 'Manager Role' with the years of 18, that is much though😕
  - I also observed that the Job Role that have stayed longer than the others since the last promotion 'Healthcare Representative with 16 years and the Job Role with the least years are the ' Sales Representative'
  - Marital status that earns higher are the 'Married  ones' followed by the 'Single' and lastly the ' divorced'
+
+   ## Conclusion 
+   
