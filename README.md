@@ -106,4 +106,4 @@ From our analysis, we derived the following results;
  - Marital status that earns higher are the 'Married  ones' followed by the 'Single' and lastly the ' divorced'
 
    ## Conclusion 
-   
+   For the manager to stay in his job role for 18 good years, it shows clearly that he is doing his job so perfectly well, and for the R&D department, I suggest they buckle up inorder to reduce the rate of attrition in their midst.
